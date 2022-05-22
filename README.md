@@ -1,1 +1,1 @@
-# ImageSeg_KMeans
+# Image Segmentation using K-Means Algorithm
